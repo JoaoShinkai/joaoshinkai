@@ -33,13 +33,6 @@ Hi 👋 My name is João Shinkai
 <a href="https://github.com/joaoshinkai" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoshinkai&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1C1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 
-###   Contribuitions
-
-<div>
-  <a href="https://github.com/joaoshinkai">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=joaoshinkai&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaoshinkai&layout=compact&langs_count=7&theme=react" />
-
-</div>
+###   Contributions
   
   ![Snake animation](https://github.com/joaoshinkai/joaoshinkai/blob/output/github-contribution-grid-snake.svg)
