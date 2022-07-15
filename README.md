@@ -5,7 +5,7 @@ Hi 👋 My name is João Shinkai
 * ✉️  You can contact me at [joaogabriel1412@gmail.com](mailto:joaogabriel1412@gmail.com)
 * 🧠  I'm learning NodeJS and VueJS
 
-### Skills
+### Languages and tools
 
 <p align="left">
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
