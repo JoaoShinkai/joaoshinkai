@@ -3,7 +3,7 @@ Hi 👋 My name is João Shinkai
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [joaogabriel1412@gmail.com](mailto:joaogabriel1412@gmail.com)
-* 🧠  I'm learning NodeJS and VueJS
+* 🧠  I'm learning NodeJS, Angular and VueJS
 
 ### Languages and tools
 
