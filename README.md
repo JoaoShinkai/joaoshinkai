@@ -1,5 +1,6 @@
 Hi 👋 My name is João Shinkai
 =============================
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=joaoshinkai" /> </p>
 
 * 🌍  I'm based in Brazil
 * ✉️  You can contact me at [joaogabriel1412@gmail.com](mailto:joaogabriel1412@gmail.com)
